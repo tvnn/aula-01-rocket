@@ -5,11 +5,13 @@ body {
 
 #hero {
     width: 592px;
-    margin: 0 auto 72px;
+    margin: auto;
    }
 
    #hero img {
-    margin-bottom: 72px;
+    height: 500px;
+    width: 500px;
+    margin-left: auto;
    }
 
 h1 { 
